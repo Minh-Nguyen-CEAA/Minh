@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Critical Defect', 'Major Defect', 'Minor Defect', 'No defect']
+
+roboflow:
+  workspace: canned-food-surface-defect-classification
+  project: canned-food-surface-defect
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/canned-food-surface-defect-classification/canned-food-surface-defect/dataset/6

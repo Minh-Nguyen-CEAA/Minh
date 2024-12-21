@@ -1,1 +1,2 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
+C:/Users/LENOVO/Downloads/Vision/canned-food-surface-defect.v6-last-version.yolov11/* filter=lfs diff=lfs merge=lfs -text
